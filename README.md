@@ -2,6 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madaoQ)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madaoQ)
+![trophy](https://github-profile-trophy.vercel.app/?username=madaoQ)
 <!--
 **madaoQ/madaoQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
