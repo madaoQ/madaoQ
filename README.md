@@ -7,4 +7,4 @@
 - :sparkling_heart: I like coding and reading
 - :house: My blog is [madao's blog](http://madaoq.top)
 
-![](https://wakatime.com/share/@b088d6e5-4cfc-4917-acdb-69d5f525bc29/54ade6e9-ad59-47c2-a8d4-6f8e4286a0d5.svg)
+![](https://wakatime.com/share/@b088d6e5-4cfc-4917-acdb-69d5f525bc29/f4de4737-a492-40a9-b0b1-885b473ecbbf.svg)
