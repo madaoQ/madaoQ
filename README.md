@@ -1,5 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=madaoQ&show_icons=true&theme=ambient_gradient&count_private=true" />
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madaoQ&theme=ambient_gradient)
 ### Hi there , madaoQ👋
 
 - :orange_book: Focusing on front_end
